@@ -10,7 +10,7 @@ TILs so far: 1
 
 ### Categories
 
-- Kibana
+- [Kibana](#kibana)
 
 ### Kibana
 
