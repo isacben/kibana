@@ -3,7 +3,8 @@
 
 My personal version of small things I learn day to day accross the technologies I use.
 
-1 TIL so far.
+First commit: Jan 10th, 2022
+TILs so far: 1
 
 ---
 
