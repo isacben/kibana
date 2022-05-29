@@ -10,7 +10,12 @@ TILs so far: 1
 
 ### Categories
 
+- [CircuitPython](#circuitpython)
 - [Kibana](#kibana)
+
+### CircuitPython
+
+- [Add Function To CircuitPython Core (C Programming)](circuitpyhton/add-function-to-circuitpython-core-c-programming.md)
 
 ### Kibana
 
