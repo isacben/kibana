@@ -15,7 +15,7 @@ TILs so far: 1
 
 ### CircuitPython
 
-- [Add Function To CircuitPython Core (C Programming)](circuitpyhton/add-function-to-circuitpython-core-c-programming.md)
+- [Add Function To CircuitPython Core (C Programming)](circuitpython/add-function-to-circuitpython-core-c-programming.md)
 
 ### Kibana
 
